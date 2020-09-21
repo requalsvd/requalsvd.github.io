@@ -27,6 +27,14 @@ background: '/img/bg-post.jpg'
 
 <hr>
 
+<div class="col-lg-4 col-md-2">
+   <ul>
+   {% for category in site.categories %}
+      <li><a href="/category/{{category | first}}">{{ category | first }} ({{ category | last | size }})</a></li>
+   {% endfor %}
+   </ul>
+</div>
+
 {% endfor %}
 
 <!-- Pager -->
@@ -44,11 +52,5 @@ background: '/img/bg-post.jpg'
   {% endif %}
 
 </div>
-<div class="col-lg-4 col-md-2">
-   <ul>
-   {% for category in site.categories %}
-      <li><a href="/category/{{category | first}}">{{ category | first }} ({{ category | last | size }})</a></li>
-   {% endfor %}
-   </ul>
-</div>
+
 {% endif %}
