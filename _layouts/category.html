@@ -63,7 +63,7 @@ layout: default
          {% for category in site.categories %}
             <li {% if category[0] == page.category %}class="active"{% endif %><a href="/category/{{category | first}}">{{ category | first }} ({{ category | last | size }})</a></li>
          {% endfor %}
-         </ul>
+      </ul>
       </div>
     </div>
   </div>
