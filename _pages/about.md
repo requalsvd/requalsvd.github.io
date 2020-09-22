@@ -3,8 +3,6 @@ title: ""
 layout: single
 permalink: /about/
 ---
-
-### Professional Profile
 I am a computational neuroscientist, analyzing and modeling data such as neuronal spiking activity and EEG signals. I explore the differences between consciousness and unconsciousness in the perspective of information processing and neural network dynamics. I also have a project experience developing medical device.
 
 ### Research Interest
