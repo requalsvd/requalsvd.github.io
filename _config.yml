@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Heonsoo Lee"
-  avatar           : "/assets/valley2.jpg"
+  avatar           : # "/assets/valley2.jpg"
   bio              : "Dream a vivid dream"
   location         : "United States"
   email            : "leeccj@gmail.com"
