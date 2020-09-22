@@ -1,4 +1,4 @@
-gem "jekyll"
+gem "jekyll", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
 group :jekyll_plugins do
