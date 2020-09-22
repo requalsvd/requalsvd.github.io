@@ -1,4 +1,7 @@
-gem "jekyll", group: :jekyll_plugins
+source "https://rubygems.org"
+
+gem "jekyll"
+gem 'jekyll-admin', group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
 group :jekyll_plugins do
