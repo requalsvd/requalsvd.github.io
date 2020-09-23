@@ -16,7 +16,7 @@ Based on the above, I thought of the followings:
 - A state is characterized by specific emotional mood, physical state (maybe by hormones and neurotransmitters), behaviors, and personality.
 - As one can have multiple state, our can have different personalities (e.g., introvert can be talkative sometimes).
 - A state can make a transition to another state spontaneously or by external perturbation.
-- If one is in a state long time, that defines out’s personality.
+- If one is in a state long time, that defines one’s personality.
 - What is a good state that I want to be in?
 - How to get out of a bad state and be in a good state? How to maintain my state?
 
