@@ -2,9 +2,9 @@
 title: Stock market and synchrony
 date: 2020-10-12
 categories: journal
-tags: [stock, synchronization, neural networks]
+tags: [stock market, synchronization, neural networks]
 ---
-I found a similar pattern between the US stock market and spike activity of neural networks. That is, a massive sell-off in the stock market and synchronous bursting spikes in neural networks.
+I found a similar pattern between the price movement in the US stock market and spike activity of neural networks. That is, a massive sell-off in the stock market and synchronous bursting spikes in neural networks.
 
 It is not always the case, but the US stock price has been onwards and upwards. There were occasional massive sell-off, or economic crisis, but the overall price, or index price has increased so far. It increases slowly, but when it drops, due to the massive sell-off, the absolute value of the slope is much larger than that of the increases. (if you know this pattern, it is somewhat easy to earn some money at least higher than bank interest)
 
