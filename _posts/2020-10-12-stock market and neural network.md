@@ -1,5 +1,5 @@
 ﻿---
-title: Stock market and synchrony
+title: Stock market and neural network
 date: 2020-10-12
 categories: journal
 tags: [stock market, synchronization, neural networks]
